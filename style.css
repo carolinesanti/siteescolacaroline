@@ -20,3 +20,12 @@
     margin: 0;
     padding: 0;
 }
+
+.imagem-escola {
+    width: 20%;
+}
+
+.escola {
+    background-image: linear-gradient(#293892,#296671);
+    color:white;
+}
